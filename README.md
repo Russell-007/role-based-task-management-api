@@ -161,5 +161,6 @@ This project was built to demonstrate backend engineering concepts including:
 
 AUTHOR
 
-Russell Martins
 Backend Developer | Node.js | MongoDB | REST APIs
+
+
